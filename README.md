@@ -1,2 +1,2 @@
 # search-filter-demo
-A simple search filter for learning purpose
+A simple search filter system for learning purpose
